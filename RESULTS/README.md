@@ -1,5 +1,6 @@
 # RESULTS:
-Results can be found here: https://docs.google.com/presentation/d/1-WML2q5AkljOUb0bndXqn8aqbt5DvAACI5dpvn1QxNc/edit#slide=id.gd11f18d770f67f9_63
+Results can be found here: 
+    https://docs.google.com/presentation/d/17TjI_il758IqdjCgjxkIdyuQ84_CRU5hd7Rc-HLOiFM/edit?usp=sharing
 
 
 Significance: 38.81143847279763
@@ -16,7 +17,7 @@ Background Efficiency: 3088/4662 = 0.6623766623766624
 It seems to be ~60% jet tagging accuracy (tagged jets are the same as the true jets ~60% of the time)
 
 
-Efficiency of each cut
+Efficiency of each cut:
 Boosted Signal Efficiency: 0.23613570696243824
 Boosted Background Efficiency: 0.11494392731844821
 Pt Cut Signal Efficiency: 0.9942766923228735
